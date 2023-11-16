@@ -1,7 +1,7 @@
 # Tic-Tac-Toe
 ## This is a refactored version of the classic game of Tic Tac Toe, I've cleaned up the code and made more readable.
 
-https://brent-prod.github.io/refactored tictactoe/
+https://brent-prod.github.io/refactored-tictactoe/
 
 ### I've build it using
 
